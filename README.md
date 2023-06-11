@@ -3,7 +3,7 @@
 ## Project Details
 
 
-Infostic Solution, a non-profit organization that provide remote internships to graduate or undergraduate students in various domains such as Data Science, Web Development etc.
+Infostic Solution, a non-profit organization that provides remote internships to graduate or undergraduate students in various domains such as Data Science, Web Development etc.
 
 ## You've to create a fully functional website with hosting for Infostic Solution.
 
