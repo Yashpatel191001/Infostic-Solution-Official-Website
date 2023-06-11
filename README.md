@@ -107,3 +107,5 @@ Here's a breakdown of the features and functionality you should include:
 - https://bharatintern.live/
 
 ### Please note that do not copy paste anything from above websites, it's just for your reference.
+
+## Active Contributors will get CERTIFICATE OF APPRECIATION & LoR from INFOSTIC SOLUTION.
