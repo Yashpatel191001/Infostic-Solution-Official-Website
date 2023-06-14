@@ -1,6 +1,6 @@
 # Infostic-Solution-Official-Website
 
-## The Website Is Temporary @ https://swarnadeepsahapoddar.me/Infostic-Solution-Official-Website/
+## Temporary Website Link - https://swarnadeepsahapoddar.me/Infostic-Solution-Official-Website/
 
 ## Project Details
 
