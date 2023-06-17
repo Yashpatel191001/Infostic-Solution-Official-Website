@@ -1,0 +1,23 @@
+nav a:visited{
+    color: #ffffff;
+}
+nav a:hover{
+    color: #ffd200;
+    text-decoration: underline;
+}
+.nav-edit{
+    font-size: 100%;
+    font-weight: bold;
+    color: white;
+    padding: 2% 2.5%;
+} 
+#navedits{
+    background-color: rgb(13, 12, 78);
+}
+.nav-edits{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+    text-align: start;
+    font-weight: bold;
+    color: white;
+}
