@@ -1,6 +1,6 @@
 # Infostic-Solution-Official-Website
 
-## The Website Is Temporary @ https://swarnadeepsahapoddar.me/Infostic-Solution-Official-Website/
+## The Website Is Temporary @ https://infostic-solution-official-website.vercel.app/
 
 ## Project Details
 
