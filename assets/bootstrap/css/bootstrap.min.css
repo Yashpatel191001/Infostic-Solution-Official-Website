@@ -9,8 +9,28 @@
   .top-container{
     text-align: center;
   }
+  .pt-5{
+    padding-left:0;
+    padding-right:0;
+    justify-content:center;
+  }
+  .Subscribe-button{
+    justify-content:center;
+  }
+  .image-container{
+    justify-content:center;
+    display:flex;
+  }
   .title-img{
     position: static;
-    width:45%
+    width:45%;
+    margin-right:0;
+    display:flex;
+    padding-left:5rem;
   }
 }
+.title-img{
+  width: 550px;
+    margin-top: -2rem;
+    margin-left: -6rem
+  }
