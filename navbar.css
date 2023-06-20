@@ -21,3 +21,8 @@ nav a:hover{
     font-weight: bold;
     color: white;
 }
+
+/* index and services css */
+.card-body{
+    background-color: #f6f6f6;
+}
