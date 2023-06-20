@@ -3,3 +3,6 @@ footer{
     color: white;
     font-weight: 600;
 }
+footer a:hover{
+    color: white !important;
+}
